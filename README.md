@@ -17,5 +17,3 @@ Turn isEnabled on:
 ./UberStrike.Unity/Assets/Scenes/Latest.unity:8127:  _localGameServer:
 ./UberStrike.Unity/Assets/Scenes/Latest.unity:8131:  _localCommServer:
 ```
-
-# last updated 20260930
