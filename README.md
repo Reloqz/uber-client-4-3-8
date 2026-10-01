@@ -8,9 +8,6 @@
 - Add the repository in Unity Hub
 - Unity Hub will automatically select the required Unity version
 
-- Counterpart is the server at -> https://github.com/TeamUberStrike/uber-server-4-3-8
-
-- This Unity version produces 32bit binaries. This means apart from 64bit, it also runs on 32bit hardware/software supported devices like old Macs.
 - Inside the Unity Editor Latest.unity is used. Outside the Editor, running the application Spaceship.unity is the entry point.
 
 ### Local Photon Server
